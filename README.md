@@ -1,4 +1,4 @@
-# -ifre-olu-turucu1
+# -merhaba-ben-yeniyim<3
 import random
 import string
 
