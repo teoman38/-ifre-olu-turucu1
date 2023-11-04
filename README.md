@@ -1,4 +1,4 @@
-# -merhaba-ben-yeniyim<3
+#şifre oluşturucu
 import random
 import string
 
